@@ -28,7 +28,7 @@ a:hover ,:focus{
 a:active{
     color: red;
 }
-.lh{
+.lh h1{
 text-align: centre;
 }
 .olist , .ulist{
@@ -39,7 +39,7 @@ ul ::marker{
     content:">>";
 }
 li{
-margin-left:2rem;
+margin:0 auto;
 }
 
 
