@@ -28,13 +28,18 @@ a:hover ,:focus{
 a:active{
     color: red;
 }
+.lh{
+text-align: centre;
+}
 .olist , .ulist{
     margin-top: 2em;
     list-style-position: inside;
-    text-align: center;
 }
 ul ::marker{
     content:">>";
+}
+li{
+margin-left:2rem;
 }
 
 
